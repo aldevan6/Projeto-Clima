@@ -1,5 +1,5 @@
 # Projeto-Clima
-<h2>Conhecimentos adquiridos com o projeto</h2>
+<h2>Conhecimentos obtidos com o projeto</h2>
 <ul> 
     <li>Manipulação de API</li>
     <li>Requisição interna</li>
